@@ -6,6 +6,8 @@ public class Add {
 	// adding 2 integers
 	int add (int a, int b) {
 		return a + b;
-	}
+	
+	// new line of code- Santosh
+		}
 
 }
