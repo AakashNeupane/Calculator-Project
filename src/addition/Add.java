@@ -8,6 +8,9 @@ public class Add {
 		return a + b;
 	
 	// new line of code- Santosh
+		
+		// new line of code- Dinesh
+		
 		}
 
 	public void addNumber(int a, int b) {
