@@ -1,5 +1,6 @@
 import addition.Add;
 import division.Div;
+import multiplication.mult;
 
 public class MainClass {
 
@@ -15,6 +16,8 @@ public class MainClass {
 		Div div= new Div();
 		div.Division(4,2);
 		
+		mult mu=new mult();
+		System.out.println(mu.mu1(2, 3));
 	}
 
 }
