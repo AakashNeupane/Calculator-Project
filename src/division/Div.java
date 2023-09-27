@@ -10,5 +10,9 @@ public class Div {
 		// second testing
 		
 	}
+	public int getNumber(int a, int b) {
+		
+		return a+b;
+	}
 
 }
