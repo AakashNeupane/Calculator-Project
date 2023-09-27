@@ -10,5 +10,9 @@ public class Div {
 		// second testing
 		
 	}
+	
+	public void loan(int a, int b) {
+		System.out.println("print loan");
+	}
 
 }
