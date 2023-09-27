@@ -14,5 +14,9 @@ public class Div {
 		
 		return a+b;
 	}
+	
+	public void loan(int a, int b) {
+		System.out.println("print loan");
+	}
 
 }
