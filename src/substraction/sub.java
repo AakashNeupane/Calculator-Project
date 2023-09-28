@@ -15,5 +15,11 @@ public class sub {
 		public void addNumber(int a, int b, int c ) {
 			
 			System.out.println(a-b-c);
+			
+		}
+		
+		public void subnumber(int a,int b) {
+			
+			System.out.println(a-b);
 		}
 }

@@ -1,6 +1,7 @@
 import addition.Add;
 import division.Div;
 import multiplication.mult;
+import substraction.sub;
 
 public class MainClass {
 
@@ -20,7 +21,8 @@ public class MainClass {
 		mult mu=new mult();
 		System.out.println(mu.mu1(2, 3));
 		
-		
+		sub s=new sub();
+		s.subnumber(5, 2);
 		
 	}
 
