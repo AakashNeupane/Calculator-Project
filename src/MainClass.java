@@ -10,7 +10,7 @@ public class MainClass {
 		
 		add.addNumber(10,20);	
 		add.addNumber(5, 6, 7);
-		
+		add.Sum(4, 04);
 		
 		
 		Div div= new Div();
@@ -18,6 +18,9 @@ public class MainClass {
 		
 		mult mu=new mult();
 		System.out.println(mu.mu1(2, 3));
+		
+		
+		
 	}
 
 }
