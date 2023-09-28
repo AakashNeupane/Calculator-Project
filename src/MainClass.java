@@ -20,6 +20,9 @@ public class MainClass {
 		mult mu=new mult();
 		System.out.println(mu.mu1(2, 3));
 		
+		Sub sub = new Sub();
+		sub.subNumber(90,59);
+		
 		
 		
 	}
