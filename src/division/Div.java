@@ -16,7 +16,11 @@ public class Div {
 	}
 	
 	public void loan(int a, int b) {
-		System.out.println("print loan");
+		
+	System.out.println("print loan");
 	}
+	
+	// code changes done for the ticket TS -3132
 
+	
 }
