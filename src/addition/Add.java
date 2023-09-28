@@ -28,5 +28,8 @@ public class Add {
 	public void Sum(int a, int b) {
 		System.out.println(a+b);
 	}
+	public void Total(int a, int b) {
+		System.out.println(a+b);
+	}
 
 }

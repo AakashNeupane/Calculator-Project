@@ -11,6 +11,7 @@ public class MainClass {
 		add.addNumber(10,20);	
 		add.addNumber(5, 6, 7);
 		add.Sum(4, 04);
+		add.Total(10, 10);
 		
 		
 		Div div= new Div();
