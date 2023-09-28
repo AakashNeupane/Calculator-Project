@@ -14,7 +14,7 @@ public class MainClass {
 		
 		
 		Div div= new Div();
-		div.Division(4,2);
+		div.Divison(4,2);
 		
 		mult mu=new mult();
 		System.out.println(mu.mu1(2, 3));
