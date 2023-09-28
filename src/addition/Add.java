@@ -31,5 +31,5 @@ public class Add {
 	public void Total(int a, int b) {
 		System.out.println(a+b);
 	}
-
+//Ranjana added two method
 }
