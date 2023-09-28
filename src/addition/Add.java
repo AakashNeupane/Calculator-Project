@@ -23,7 +23,7 @@ public class Add {
 		System.out.println(a+b+c);
 	}
 	
-	//This is Ranjana code.
+	//This is Ranjana code added.
 	
 	public void Sum(int a, int b) {
 		System.out.println(a+b);
@@ -31,5 +31,6 @@ public class Add {
 	public void Total(int a, int b) {
 		System.out.println(a+b);
 	}
+	// Ranjana add total method 
 
 }
