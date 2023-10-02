@@ -24,6 +24,8 @@ public class MainClass {
 		sub s=new sub();
 		s.subnumber(5, 2);
 		
+		// ranjana test
+		
 	}
 
 }
