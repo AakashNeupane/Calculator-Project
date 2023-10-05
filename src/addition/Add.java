@@ -23,5 +23,9 @@ public class Add {
 		System.out.println(a+b+c);
 	}
 	
+	public void printer() {
+		System.out.println("I am a printer");
+	}
+	
 
 }
